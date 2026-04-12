@@ -1,4 +1,7 @@
 
+![Project Infographic](assets/Churn_analysis.png) 
+
+
 # 📘 Customer Churn Analysis – End-to-End Python Project
 
 ## 📌 Project Overview
@@ -17,7 +20,7 @@ The analysis walks through the complete lifecycle — from a raw CSV dataset to 
 
 ## 🎯 Objectives
 
-The primary objectives of this project are to:
+The primary objectives of this project are to: 
 
 * Clean and preprocess real-world structured data
 * Perform exploratory data analysis (EDA) to uncover churn patterns
